@@ -98,3 +98,11 @@ My proposal would be to:
 
 1. Defining which projects qualify for this support. This is part of larger question of what constitutes a SwUng affiliate project.
 1. Continued funding, even though the initial cost is not high. If more projects start joining or becoming more popular then the price will increase.
+
+----
+
+## Update, 7 April 2022
+
+After discussion in the February board meeting, this was adopted and implemented in March 2022 and is now operating with a few domains, including [fatiando.org](https://plausible.io/fatiando.org) and [softwareunderground.org](https://plausible.io/softwareunderground.org). We agreed to monitor the usage and review in a few months (at or before the September board meeting). Currently the cost is about USD11 per month (up to 10k pageviews per month), with the option to switch to annual billing if we stay on the platform.
+
+The board thanks Leo for the initiative, and invites other maintainers to add their domains.
