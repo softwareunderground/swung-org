@@ -5,7 +5,7 @@ This is a brief financial summary for the financial year 2021, the first full ye
 
 ## General remarks
 
-Software Underground was a project of [Agile Scientific](https://agilescientific.com). In about 2019 we decided to incorporate as a non-profit, mainly to make it easier and more attractive to donate to, both for organizations and individuals. We took this step in April 2020, but there was considerable financial overlap between Agile and Software Underground until the end of 2020. Things were simpler in 2021, with Software Underground operating as a fully autonomous entity.
+Software Underground was a project of [Agile Scientific](https://agilescientific.com). In about 2019 we decided to incorporate as a non-profit, mainly to make it easier and more attractive to donate to, both for organizations and individuals. We took this step in April 2020, but there was considerable financial overlap between Agile and Software Underground until the end of 2020. Things were simpler in 2021, with Software Underground operating as a fully autonomous entity; accordingly, this was the first normal financial year.
 
 
 ## Summary of relevant events
@@ -43,5 +43,5 @@ The society continues to approximately balance recurring monthly income and expe
 
 The organization also received USD 25,000 of services from Amazon AWS as an in-kind donation in 2020; this donation expires in June 2022.
 
-Matt Hall
+Matt Hall<br>
 Nova Scotia
