@@ -17,17 +17,16 @@ Status: Draft
 <!-- justification for it. Focus on the outcomes for Swung's members. **This -->
 <!-- may be the only part that some people read.** -->
 
-The proposal is for Software Underground to provide financial support to
-participants of the upcoming [BIRS](https://www.birs.ca) Workshop "Open-source
-tools to enable geophysical data processing and inversion".
-During this event, the communities of Fatiando a Terra and SimPEG will gather
-to work and plan the future development of open-source tools in geophysics.
+The proposal is intended to ask Software Underground to provide financial
+support to participants of the upcoming [BIRS][birs.ca] Workshop ["Open-source
+tools to enable geophysical data processing and inversion"][birs2023].
+During this event, the communities of [Fatiando a Terra][fatiando] and
+[SimPEG][simpeg] will gather to work and plan the future development of
+open-source tools in geophysics.
 
-The financial support would be aimed to cover travel and per diem costs of
-participants that cannot count on any additional funding sources, or won't be
-able to attend without it.
-Participants belonging to underrepresented groups within geosciences will be
-prioritized with the goal of increasing the diversity within participants.
+The financial support would be mainly aimed to cover travel and meal expenses
+of participants that cannot count on any additional funding sources, or won't
+be able to attend without it.
 
 
 ## Motivation and scope
@@ -35,15 +34,15 @@ prioritized with the goal of increasing the diversity within participants.
 <!-- Provide some background and context for the proposal. What provoked the need -->
 <!-- for the change, action, or technology you're proposing? -->
 
-The authors of this proposal are organizing a two days workshop at the Banff
-International Research Station (BIRS), happening from July 28 to July 30, 2023,
-in Banff, Canada.
-During this workshop, the communities of users and developers of Fatiando
-a Terra and SimPEG will gather to work on developing a fully open-source
-geophysical workflow that covers processing raw data to producing interpretable
-models; improving the interoperability and usability of our tools; and
-nurturing community building, increasing diversity and sustainability whiten
-these projects.
+The authors of this proposal are organizing a two days workshop at the [Banff
+International Research Station (BIRS)][birs.ca], happening from July 28 to July
+30, 2023, in Banff, Canada.
+During this workshop, the communities of users and developers of [Fatiando
+a Terra][fatiando] and [SimPEG][simpeg] will gather to work on developing
+a fully open-source geophysical workflow that covers processing raw data to
+producing interpretable models; improving the interoperability and usability of
+their tools; and nurturing community building, increasing diversity and
+sustainability whiten these projects.
 
 BIRS' organization will provide the venue where the event will take place, and
 cover in-person participants' accommodation for two nights, inside BIRS campus.
@@ -54,12 +53,11 @@ In the spirit of increasing the diversity within these two communities, we
 would like to provide financial support to participants that might encounter
 difficulties ensuring the fundings to cover the costs of attending the
 workshop.
-Participants that identify themselves as members of an underrepresented group
-within geosciences and STEM will be prioritized to receive financial support.
 
 The goals of this workshop are very aligned with the ones of Software
 Underground. We consider this will be a very valuable event for the Fatiando
-and SimPEG projects, and for the broader geoscientific community.
+and SimPEG projects, for Software Underground, and for the broader
+geoscientific community.
 
 
 ## Detailed description
@@ -69,35 +67,37 @@ and SimPEG projects, and for the broader geoscientific community.
 <!-- need to. Include relevant links or data tables using Markdown. -->
 
 In this proposal we would like to ask Software Underground for financial
-support to cover some portion of the participant's travel and food costs during
-the aforementioned Workshop.
+support to:
+- totally or partially cover participant's travel and meal expenses, and
+- purchase _swag_ for the Workshop.
 
-Travel costs will include any expense that participants might have to afford in
-order to travel from their current residency to BIRS facilities through an
-direct route. They include flight tickets, ferry tickets and ground
-transportation expenses (transit, gas usage). It doesn't include expenses
-related to vehicle renting.
-Food costs will include all food expenses that the participant will have to
-afford during the days of the workshop, and during the travel days.
+Participant's travel costs include any expense that participants might have to
+afford in order to travel from their current residency to BIRS facilities
+through an direct route: flight tickets, ferry tickets and ground
+transportation expenses (transit, gas usage).
+Meal expenses will include all meals that the participant will have to afford
+during the days of the workshop and travel days.
 
-Participants will be considered as *candidates* for getting financial support
-if they meet the following criteria:
-1. they confirm their **in-person** attendance to the workshop;
-2. lack of third-party funding sources to **partially** or **totally** cover
-   these expenses; and
-3. they **express the need** for financial support from event organizers.
-
-Candidates that identify themselves as members of underrepresented groups in
-geosciences and/or STEM will be prioritized for receiving financial aid.
-
-Candidates that get selected to receive financial aid will be considered
-*beneficiaries*.
-
-In addition, event organizers will designate a portion of the financial support
-to _swag_ expenses, such as stickers, T-shirts and/or customized notebooks.
+In addition, some portion of these funds will be assigned to
+purchasing to _swag_ expenses, such as stickers, T-shirts and/or customized
+notebooks.
 These will include logos and content related to Software Underground, Fatiando
-a Terra, SimPEG and other related communities and projects within geosciences.
+a Terra, SimPEG, BIRS, the Workshop, and other related communities and projects
+within geosciences.
 
+As organizers, we identify a few participants that qualify as *beneficiaries*
+for receiving this financial support. This selection was based considering the
+following criteria:
+1. they confirmed their **in-person** attendance to the workshop;
+2. they lack of third-party funding sources to **partially** or **totally**
+   cover these expenses; and
+3. they **expressed the need** for financial support from event organizers.
+
+The list of beneficiaries contains three participants that would require some
+level of financial support. Through this proposal we would like to ask Software
+Underground the funds to cover the meal expenses for the three beneficiaries,
+the travel costs for two of them, and some additional funds to cover swag
+expenses.
 
 ## Cost
 
@@ -112,31 +112,50 @@ a Terra, SimPEG and other related communities and projects within geosciences.
 <!-- * Use USD or EUR please. -->
 <!-- * If you can only provide estimates, give ranges. -->
 
-### Food costs
+### Meal expenses
 
-Considering that most of the food expenses will take place during the event,
+Considering that most of the meal expenses will take place during the event,
 we'll use the prices of [meals offered by
 BIRS](https://www.birs.ca/frequently-asked-questions#Meals) as a guide to
-estimate food costs per participant.
+estimate costs per beneficiary.
 
-| Meal | Cost (CAD) | USD (1.35 CAD[^2]) |
-|------|------------|----------------|
-| Breakfast | 18.43 | 13.61 |
-| Lunch | 22.15 | 16.35 |
-| Dinner | 29.42 | 21.72 |
-| **Total per day** | **70.0** | **51.68** |
+| Meal              | Cost (CAD) | USD (1.34 CAD[^2]) |
+|-------------------|------------|--------------------|
+| Breakfast         |    18.43   |       13.75        |
+| Lunch             |    22.15   |       16.53        |
+| Dinner            |    29.42   |       21.95        |
+| **Total per day** |  **70.0**  |     **52.23**      |
 
-This adds up to **51.68 USD** of food expense per day per beneficiary.
+This adds up to **52.23 USD** of meal expenses per day per beneficiary.
+In order to cover the meal expenses for three participants during the two days
+of workshop, they would sum up a total of **313.38 USD**.
 
 ### Travel costs
 
-Travel costs will be estimated after building a list of candidates and
-reviewing their financial needs and travel costs.
+We would cover the travel costs for two participants that need to travel from
+within North America to Banff. Considering flight tickets and ground
+transportations, the travel costs would be of approximately 500 USD for each
+participant.
+Travel costs would sum up to **1000 USD**.
 
+### Swag
+
+We would add **200 USD** for purchasing swag for the Workshop.
 
 ### Total costs
 
-TBD
+|               | Cost (USD)  |
+|---------------|-------------|
+| Meal expenses |    313.38   |
+| Travel costs  |   1000.00   |
+| Swag          |    200.00   |
+| **Total**     | **1513.38** |
+
+Through this proposal we would like to ask Software Underground to provide
+**1513.38 USD** to cover meal, travel and (optionally) swag expenses for the
+BIRS Workshop.
+Worth noting that these costs are obtained through estimations, and some
+variability should be expected.
 
 
 ## Implementation
@@ -146,11 +165,6 @@ TBD
 <!-- Again, think about the near-term, e.g. for a proof-of-concept, and the longer -->
 <!-- term, e.g. for a full implementation. Think about your own role in the -->
 <!-- implementation. -->
-
-Event organizers will gather information about participants that confirmed
-their in-person assistance, regarding their financial needs to cover the travel
-expenses.
-A list of candidates will be built after this information.
 
 Software Underground could provide the fundings for covering beneficiaries'
 costs in advance, and/or through reimbursement.
@@ -163,13 +177,14 @@ Beneficiaries can choose to remain anonymous to the general public and Software
 Underground community.
 They can opt-out of being mentioned as beneficiaries in any public release of
 the event, social media publication and blog post.
-In such case, they will have to accept to be knowledgeable **only** by event
-organizers and Software Underground Board Members.
+They will have to accept to be identified by event organizers and Software
+Underground Board Members.
 
 After the event, beneficiaries will be encouraged to write some blog post
 commenting their experience on the workshop.
 These blog posts will have to be licensed under a Creative Commons Attribution
-license and will be published on Software Underground website.
+license and will be published on Software Underground website and/or the
+Workshop's website.
 Beneficiaries can choose to remain anonymous in these blog posts.
 
 
@@ -184,14 +199,14 @@ Beneficiaries can choose to remain anonymous in these blog posts.
 <!-- If there are alternative solutions, list them here and justify the proposed -->
 <!-- approach. -->
 
-BIRS website offers a list of partners that could potentially provide travel
-grants to participants: https://www.birs.ca/participants/travel-support/
-
-
-## Discussion
-
-* Links to relevant discussion of these issues in the Software Underground Slack
-or elsewhere.
+Some of the selected participants and the organizers have applied to
+third-party financial support provided by [BIRS Partners][birs-partners].
+By June 2 we haven't received any confirmation or denial from any of them.
+In the hypothetical case that the organizers or any beneficiary gather the
+funds to partially or totally cover their travel and meal expenses, the
+financial aid provided by Software Underground would be used to cover any
+remaining expenses of the other participants, or ultimately returned to
+Software Underground.
 
 
 ## References
@@ -200,9 +215,8 @@ or elsewhere.
 <!-- proposal. -->
 
 * [BIRS 2-day Workshop (23w2014)](https://www.birs.ca/events/2023/2-day-workshops/23w2014)
-* [Website for the event](https://softwareunderground.github.io/birs-2023)
+* [Website for the event](https://birs-2023.softwareunderground.org)
 * [BIRS website](https://www.birs.ca)
-* [Currency exchange rates][xe.com]
 
 ## Copyright
 
@@ -210,6 +224,11 @@ This content is in the public domain.[^1]
 
 [^1]: Your proposal must be explicitly labeled as public domain (see below as an
 example), or licensed under a permissive open license such as CC BY.
-[^2]: Exchange rates for the 2023-05-01, obtained from [www.xe.com][xe.com].
+[^2]: Exchange rates for the 2023-06-02, obtained from [www.xe.com][xe.com].
 
+[fatiando]: https://www.fatiando.org
+[simpeg]: https://www.simpeg.xyz
 [xe.com]: https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CAD
+[birs2023]: https://birs-2023.softwareunderground.org
+[birs.ca]: https://www.birs.ca
+[birs-partners]: https://www.birs.ca/participants/travel-support/
