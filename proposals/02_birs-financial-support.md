@@ -128,7 +128,7 @@ estimate costs per beneficiary.
 
 This adds up to **52.23 USD** of meal expenses per day per beneficiary.
 In order to cover the meal expenses for three participants during the two days
-of workshop, they would sum up a total of **313.38 USD**.
+of workshop, they would sum up a total of **315 USD** (rounded).
 
 ### Travel costs
 
@@ -146,13 +146,13 @@ We would add **200 USD** for purchasing swag for the Workshop.
 
 |               | Cost (USD)  |
 |---------------|-------------|
-| Meal expenses |    313.38   |
+| Meal expenses |    315.00   |
 | Travel costs  |   1000.00   |
 | Swag          |    200.00   |
-| **Total**     | **1513.38** |
+| **Total**     | **1515.00** |
 
 Through this proposal we would like to ask Software Underground to provide
-**1513.38 USD** to cover meal, travel and (optionally) swag expenses for the
+**1515.00 USD** to cover meal, travel and (optionally) swag expenses for the
 BIRS Workshop.
 Worth noting that these costs are obtained through estimations, and some
 variability should be expected.
