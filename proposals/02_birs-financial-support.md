@@ -68,8 +68,9 @@ geoscientific community.
 
 In this proposal we would like to ask Software Underground for financial
 support to:
-- totally or partially cover participant's travel and meal expenses, and
-- purchase _swag_ for the Workshop.
+
+* totally or partially cover participant's travel and meal expenses, and
+* purchase _swag_ for the Workshop.
 
 Participant's travel costs include any expense that participants might have to
 afford in order to travel from their current residency to BIRS facilities
@@ -85,9 +86,10 @@ These will include logos and content related to Software Underground, Fatiando
 a Terra, SimPEG, BIRS, the Workshop, and other related communities and projects
 within geosciences.
 
-As organizers, we identify a few participants that qualify as *beneficiaries*
+As organizers, we identify a few participants that qualify as _beneficiaries_
 for receiving this financial support. This selection was based considering the
 following criteria:
+
 1. they confirmed their **in-person** attendance to the workshop;
 2. they lack of third-party funding sources to **partially** or **totally**
    cover these expenses; and
