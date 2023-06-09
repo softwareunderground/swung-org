@@ -8,14 +8,9 @@ Authors:
 * Craig Miller ([@craigmillernz](https://github.com/craigmillernz))
 
 Type: Workshop
-Status: Draft
 
 
 ## Abstract
-
-<!-- Briefly describe the proposal in up to four sentences. Provide some -->
-<!-- justification for it. Focus on the outcomes for Swung's members. **This -->
-<!-- may be the only part that some people read.** -->
 
 The proposal is intended to ask Software Underground to provide financial
 support to participants of the upcoming [BIRS][birs.ca] Workshop ["Open-source
@@ -30,11 +25,6 @@ be able to attend without it.
 
 
 ## Motivation and scope
-
-<!--
-Provide some background and context for the proposal.
-What provoked the need for the change, action, or technology you're proposing?
--->
 
 The authors of this proposal are organizing a two days workshop at the [Banff
 International Research Station (BIRS)][birs.ca], happening from July 28 to July
@@ -63,12 +53,6 @@ geoscientific community.
 
 
 ## Detailed description
-
-<!--
-This is the meat of the proposal. Describe what you're proposing in at least
-a couple of paragraphs. Use subsections (use `### Subhead` if you need to).
-Include relevant links or data tables using Markdown.
--->
 
 In this proposal we would like to ask Software Underground for financial
 support to:
@@ -109,11 +93,6 @@ the travel costs for two of them, and some additional funds to cover swag
 expenses.
 
 ## Cost
-
-<!--
-Provide some relevant financial background. Exactly what you need to
-show here depends on the specific proposal. But try to anticipate questions
-the board might have. For example:
 
 * What does Swung currently spend on trying to solve this problem?
 * What would your proposal cost in the near term (e.g. for a small experiment)?
@@ -171,14 +150,6 @@ variability should be expected.
 
 ## Implementation
 
-<!--
-How exactly would Software Underground go about implementing your proposal?
-
-Again, think about the near-term, e.g. for a proof-of-concept, and the longer
-term, e.g. for a full implementation. Think about your own role in the
-implementation.
--->
-
 Software Underground will provide the fundings for covering beneficiaries'
 costs in advance, and/or through reimbursement.
 Beneficiaries will be required to provide tickets, bills and proof of payment
@@ -201,19 +172,7 @@ Workshop's website.
 Beneficiaries can choose to remain anonymous in these blog posts.
 
 
-<!-- ## Challenges and risks -->
-
-<!--
-What are the possible downsides or speedbumps of implementing your idea?
-And how can we mitigate them?
--->
-
 ## Alternatives
-
-<!--
-If there are alternative solutions, list them here and justify the proposed
-approach.
--->
 
 Some of the selected participants and the organizers have applied to
 third-party financial support provided by [BIRS Partners][birs-partners].
@@ -226,11 +185,6 @@ returned to Software Underground.
 
 
 ## References
-
-<!--
-Provide any relevant references and links, or put them in the text of your
-proposal.
--->
 
 * [BIRS 2-day Workshop (23w2014)](https://www.birs.ca/events/2023/2-day-workshops/23w2014)
 * [Website for the event](https://birs-2023.softwareunderground.org)
