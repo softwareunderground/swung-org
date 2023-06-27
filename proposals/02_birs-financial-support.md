@@ -94,14 +94,6 @@ expenses.
 
 ## Cost
 
-* What does Swung currently spend on trying to solve this problem?
-* What would your proposal cost in the near term (e.g. for a small experiment)?
-* What might it cost in the medium term (e.g. in the first year of operation)?
-* Break costs down into capital cost, operating cost, and labour cost (or time).
-* Use USD or EUR please.
-* If you can only provide estimates, give ranges.
--->
-
 ### Meal expenses
 
 Considering that most of the meal expenses will take place during the event,
