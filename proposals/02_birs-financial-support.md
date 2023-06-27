@@ -164,12 +164,14 @@ the event, social media publication and blog post.
 Beneficiaries' personal information will be required to be disclosed only to
 the event organizers and Software Underground Board Members.
 
-After the event, beneficiaries will be encouraged to write some blog post
-commenting their experience on the workshop.
-These blog posts will have to be licensed under a Creative Commons Attribution
-license and will be published on Software Underground website and/or the
-Workshop's website.
-Beneficiaries can choose to remain anonymous in these blog posts.
+After the event, the Workshop will output some written products in a form of
+blog posts, tutorials, or similar.
+Their content will be related to topics of interest for Software Underground,
+such as participant's experience during the workshop, content for future
+Transform tutorials, plans for nurturing our communities, etc.
+These blog posts will be licensed under a Creative Commons Attribution
+license, allowing Software Underground to publish them on its website and
+social media.
 
 
 ## Alternatives
