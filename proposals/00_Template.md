@@ -31,7 +31,7 @@ need to. Include relevant links or data tables using Markdown.
 
 ## Cost
 
-Provide some relevant financial background. Exactly what you need to 
+Provide some relevant financial background. Exactly what you need to
 show here depends on the specific proposal. But try to anticipate questions
 the board might have. For example:
 
@@ -39,7 +39,7 @@ the board might have. For example:
 * What would your proposal cost in the near term (e.g. for a small experiment)?
 * What might it cost in the medium term (e.g. in the first year of operation)?
 * Break costs down into capital cost, operating cost, and labour cost (or time).
-* Use USD or EUR please.
+* Use CAD please.
 * If you can only provide estimates, give ranges.
 
 
@@ -54,19 +54,19 @@ implementation.
 
 ## Challenges and risks
 
-What are the possible downsides or speedbumps of implementing your idea? 
+What are the possible downsides or speedbumps of implementing your idea?
 And how can we mitigate them?
 
 
 ## Alternatives
 
-If there are alternative solutions, list them here and justify the proposed 
+If there are alternative solutions, list them here and justify the proposed
 approach.
 
 
 ## Discussion
 
-* Links to relevant discussion of these issues in the Software Underground Slack 
+* Links to relevant discussion of these issues in the Software Underground Slack
 or elsewhere.
 
 
@@ -80,5 +80,5 @@ proposal.
 
 This content is in the public domain.[^1]
 
-[^1]: Your proposal must be explicitly labeled as public domain (see below as an 
+[^1]: Your proposal must be explicitly labeled as public domain (see below as an
 example), or licensed under a permissive open license such as CC BY.
