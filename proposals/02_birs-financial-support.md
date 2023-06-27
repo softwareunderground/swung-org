@@ -133,11 +133,9 @@ We would add **260 CAD** for purchasing swag for the Workshop.
 | Swag          |    260.00   |
 | **Total**     | **2000.00** |
 
-Through this proposal we would like to ask Software Underground to provide
-**2000.00 CAD** to cover meal, travel and (optionally) swag expenses for the
+Through this proposal we would like to ask Software Underground to provide up
+to **2000.00 CAD** to cover meal, travel and (optionally) swag expenses for the
 BIRS Workshop.
-Worth noting that these costs are obtained through estimations, and some
-variability should be expected.
 
 
 ## Implementation
