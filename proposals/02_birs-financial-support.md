@@ -168,7 +168,11 @@ social media.
 
 Some of the selected participants and the organizers have applied to
 third-party financial support provided by [BIRS Partners][birs-partners].
-By June 2 we haven't received any confirmation or denial from any of them.
+~By June 2 we haven't received any confirmation or denial from any of them.~
+The contacted BIRS partners have rejected the funding applications, mostly due
+to the type of Workshop we'll be running, which is not aligned to their
+particular goals.
+
 In the hypothetical case that the organizers or any beneficiary gather the
 funds to partially or totally cover their travel and meal expenses, the
 financial aid provided by Software Underground would be used to cover any
