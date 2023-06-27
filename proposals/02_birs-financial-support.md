@@ -101,40 +101,40 @@ we'll use the prices of [meals offered by
 BIRS](https://www.birs.ca/frequently-asked-questions#Meals) as a guide to
 estimate costs per beneficiary.
 
-| Meal              | Cost (CAD) | USD (1.34 CAD[^1]) |
-|-------------------|------------|--------------------|
-| Breakfast         |    18.43   |       13.75        |
-| Lunch             |    22.15   |       16.53        |
-| Dinner            |    29.42   |       21.95        |
-| **Total per day** |  **70.0**  |     **52.23**      |
+| Meal              | Cost (CAD) |
+|-------------------|------------|
+| Breakfast         |    18.43   |
+| Lunch             |    22.15   |
+| Dinner            |    29.42   |
+| **Total per day** |  **70.00** |
 
-This adds up to **52.23 USD** of meal expenses per day per beneficiary.
+This adds up to **70 CAD** of meal expenses per day per beneficiary.
 In order to cover the meal expenses for three participants during the two days
-of workshop, they would sum up a total of **315 USD** (rounded).
+of workshop, they would sum up a total of **420 CAD**.
 
 ### Travel costs
 
 We would cover the travel costs for two participants that need to travel from
 within North America to Banff. Considering flight tickets and ground
-transportations, the travel costs would be of approximately 500 USD for each
+transportations, the travel costs would be of approximately 660 CAD for each
 participant.
-Travel costs would sum up **1000 USD**.
+Travel costs would sum up **1320 CAD**.
 
 ### Swag
 
-We would add **200 USD** for purchasing swag for the Workshop.
+We would add **260 CAD** for purchasing swag for the Workshop.
 
 ### Total costs
 
-|               | Cost (USD)  |
+|               | Cost (CAD)  |
 |---------------|-------------|
-| Meal expenses |    315.00   |
-| Travel costs  |   1000.00   |
-| Swag          |    200.00   |
-| **Total**     | **1515.00** |
+| Meal expenses |    420.00   |
+| Travel costs  |   1320.00   |
+| Swag          |    260.00   |
+| **Total**     | **2000.00** |
 
 Through this proposal we would like to ask Software Underground to provide
-**1515.00 USD** to cover meal, travel and (optionally) swag expenses for the
+**2000.00 CAD** to cover meal, travel and (optionally) swag expenses for the
 BIRS Workshop.
 Worth noting that these costs are obtained through estimations, and some
 variability should be expected.
@@ -188,11 +188,8 @@ returned to Software Underground.
 
 This content is in the public domain.
 
-[^1]: Exchange rates for the 2023-06-02, obtained from [www.xe.com][xe.com].
-
 [fatiando]: https://www.fatiando.org
 [simpeg]: https://www.simpeg.xyz
-[xe.com]: https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CAD
 [birs2023]: https://birs-2023.softwareunderground.org
 [birs.ca]: https://www.birs.ca
 [birs-partners]: https://www.birs.ca/participants/travel-support/
