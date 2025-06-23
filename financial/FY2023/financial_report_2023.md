@@ -33,4 +33,4 @@ Given a 2023 income of CAD 4766 and expenses of CAD 5845, the society is not qui
 
 
 Matt Hall
-Nova Scotia
+Bergen, Norway
