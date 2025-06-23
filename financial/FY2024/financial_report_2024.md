@@ -19,7 +19,7 @@ Software Underground was founded by Agile Scientific as an informal organization
 
 ## Assets and liabilities
 
-The society had CAD 17,467 in its chequing account at the end of the year. This is an decrease of 10.0% compared to 2023's effective closing balance of CAD 19.907. Unlike last year, however, the society had no major liabilities at the end of the year.
+The society had CAD 17,467 in its chequing account at the end of the year. This is an decrease of 10.0% compared to 2023's effective closing balance of CAD 19,907. Unlike last year, however, the society had no major liabilities at the end of the year.
 
 The society also owns CAD 2,000.00 in a 12-month GIC (guaranteed investment certificate, equivalent to cash). The GIC is required to secure the credit card so is not liquid. It generates a small amount of interest each year.
 
