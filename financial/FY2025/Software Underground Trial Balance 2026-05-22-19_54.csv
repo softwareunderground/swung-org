@@ -1,0 +1,28 @@
+﻿Trial Balance
+Software Underground
+As of 2025-12-31
+Report Type: Accrual (Paid & Unpaid)
+""
+ACCOUNT NUMBER,ACCOUNTS,DEBIT,CREDIT
+,Assets,,
+,Chequing (273),"15,197.58",0.00
+,GIC Purchase,"2,000.00",0.00
+,Total Assets,"17,197.58",0.00
+,Liabilities,,
+2000,Accrued Liabilites,0.00,526.94
+,Visa ***************7363,0.00,16.84
+,Total Liabilities,0.00,543.78
+,Equity,,
+,Profit for all prior years,0.00,"18,405.52"
+,Retained Earnings/Deficit,183.75,0.00
+,Total Equity,183.75,"18,405.52"
+,Income,,
+,Direct Public Support – Individual Contributions,0.00,691.36
+,Investments – Interest,0.00,65.00
+,Total Income,0.00,756.36
+,Expenses,,
+,Accounting Fees,"1,083.00",0.00
+,Bank Charges and Interest,112.96,0.00
+,Business Software,"1,128.37",0.00
+,Total Expenses,"2,324.33",0.00
+,Total for all accounts,"19,705.66","19,705.66"
